@@ -48,3 +48,33 @@ Contoso 大學 Web 應用程式
 - 檢查 Up 和 Down 方法
 - 資料模型快照集
 
+五、建立複雜的資料模型
+
+- 自訂資料模型
+- DataType 屬性
+- StringLength 屬性
+- Column 屬性
+- 對 Student 實體進行變更
+- Required 屬性
+- Display 屬性
+- FullName 計算屬性
+- 建立 Instructor 實體
+- CourseAssignments 和 OfficeAssignment 導覽屬性
+- 建立 OfficeAssignment 實體
+- Key 屬性
+- Instructor 導覽屬性
+- 修改 Course 實體
+- DatabaseGenerated 屬性
+- 外部索引鍵及導覽屬性
+- 建立 Department 實體
+- Column 屬性
+- 外部索引鍵及導覽屬性
+- 修改 Enrollment 實體
+- 多對多關聯性
+- CourseAssignment 實體
+- 聯結實體名稱
+- 複合索引鍵
+- 更新資料庫內容
+- 顯示關聯性的實體圖表
+- 將測試資料植入資料庫
+
