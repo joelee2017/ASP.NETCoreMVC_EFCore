@@ -87,3 +87,17 @@ Contoso 大學 Web 應用程式
 - 效能考量
 - 建立 Courses 頁面
 - 建立 Instructors 頁面
+- 建立 Instructor [索引] 檢視的檢視模型
+- 建立 Instructor 控制器和檢視
+
+七、更新相關資料
+
+- 自訂 Courses 頁面
+- 將 .AsNoTracking 新增至 Details 及 Delete 方法
+- 測試 Course 頁面
+- 新增 Instructors [編輯] 頁面
+- 更新 Instructor [編輯] 檢視
+- 更新 Instructor 檢視
+- 更新 [刪除] 頁面
+- 將辦公室位置和課程新增至 [建立] 頁面
+- 處理交易
