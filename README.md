@@ -117,3 +117,11 @@ Contoso 大學 Web 應用程式
 - 更新 Departments 控制器中的 Delete 方法
 - 更新 [刪除] 檢視
 - 更新 [詳細資料] 及 [建立] 檢視
+
+九、繼承
+
+- 將繼承對應至資料庫
+- 建立 Person 類別
+- 更新 Instructor 和 Student
+- 將 Person 新增至模型
+
